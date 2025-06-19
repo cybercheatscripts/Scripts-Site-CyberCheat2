@@ -42,17 +42,3 @@
         }
       ]
     },
-    {
-      "name": "Combate",
-      "scripts": [
-        {
-          "name": "SCRIPT MURDER MYSTERY 2 - XHUB",
-          "description": "Script de murder mystery 2 que está funcionando nas maiorias do executores.",
-          "image": "https://static.wikia.nocookie.net/murder-mystery-2/images/2/2c/Current_thumbnail_mm2.png/revision/latest?cb=20240524142300",
-          "rating": 4.7,
-          "downloads": "1.8k",
-          "updated": "05/06/2025",
-          "code": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/newredz/BloxFruits/refs/heads/main/Source.luau\"))(Settings)",
-        }
-      ]
-    },
