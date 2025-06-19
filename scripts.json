@@ -5,12 +5,21 @@
       "scripts": [
         {
           "name": "SCRIPT ARSENAL - VAPA V2",
-          "description": "Script MUITO OP RAPAZIADA DO CEU, USEM LOGO SE NAO EU BATO EM VOCÊS",
+          "description": "Script desse video aqui: https://www.youtube.com/watch?v=LLYOG_4ravI",
           "image": "https://tr.rbxcdn.com/180DAY-a8abe703dec5b81538e04a714ab7dca4/768/432/Image/Webp/noFilter",
           "rating": 4.9,
           "downloads": "2.4k",
           "updated": "10/06/2023",
           "code": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/Nickyangtpe/Vapa-v2/refs/heads/main/Vapav2-Arsenal.lua\", true))()\n\n-- FUNÇÕES ADICIONAIS\nlocal function antiAfk()\n    local virtualUser = game:GetService(\"VirtualUser\")\n    game:GetService(\"Players\").LocalPlayer.Idled:Connect(function()\n        virtualUser:CaptureController()\n        virtualUser:ClickButton2(Vector2.new())\n    end)\nend\nantiAfk()\n\n-- CONFIGURAÇÕES DE PERFORMANCE\nsettings().Rendering.QualityLevel = 1\ngame:GetService(\"Lighting\").GlobalShadows = false"
+        },
+        {
+          "name": "SCRIPT MURDER MYSTERY 2 - XHUB",
+          "description": "Script FUNCIONANDO EM QUASE TRODOS OS EXECUTORES!!! APROVEITE.",
+          "image": "https://tr.rbxcdn.com/180DAY-9712501c7ff29c2243d0fd3bfb47d93d/768/432/Image/Webp/noFilter",
+          "rating": 4.5,
+          "downloads": "3.1k",
+          "updated": "12/06/2023",
+          "code": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/newredz/BloxFruits/refs/heads/main/Source.luau\"))(Settings)"
         }
       ]
     },
@@ -25,6 +34,33 @@
           "downloads": "3.1k",
           "updated": "12/06/2023",
           "code": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/newredz/BloxFruits/refs/heads/main/Source.luau\"))(Settings)"
+        },
+        {
+          "name": "EXÉRCITO BRASILEIRO",
+          "description": "AUTO JJ'S",
+          "image": "https://tr.rbxcdn.com/180DAY-e4f1cbe7d7e0f7018ea98880b9414fb4/768/432/Image/Webp/noFilter",
+          "rating": 4.5,
+          "downloads": "3.1k",
+          "updated": "12/06/2023",
+          "code": "loadstring(game:HttpGet('https://raw .githubusercontent.com/Zv-yz/AutoJJs /main/Main.lua')) (Options);"
+        },
+        {
+          "name": "GROW A GARDEN",
+          "description": "Script super op e com inf money (precisa de amigo para funcionar)",
+          "image": "https://tr.rbxcdn.com/180DAY-832e5e525e69ac0aaa8619cf45586992/768/432/Image/Webp/noFilter",
+          "rating": 4.5,
+          "downloads": "3.1k",
+          "updated": "12/06/2023",
+          "code": "loadstring(game:HttpGetAsync(\"https://raw.githubusercontent.com/NoLag-id/No-Lag-HUB/refs/heads/main/Loader/LoaderV1.lua\"))()"
+        },
+        {
+          "name": "DEAD RAILS",
+          "description": "SCRIPT AUTO BOND",
+          "image": "https://tr.rbxcdn.com/180DAY-280e0d6ad3abb19334119f1bedd13a6f/768/432/Image/Webp/noFilter",
+          "rating": 4.5,
+          "downloads": "3.1k",
+          "updated": "12/06/2023",
+          "code": "loadstring(game:HttpGet('https://raw.githubusercontent.com/m00ndiety/Keyless-auto-bonds/refs/heads/main/obfuscated%20(6).txt'))()"
         }
       ]
     },
@@ -38,22 +74,9 @@
           "rating": 4.7,
           "downloads": "1.8k",
           "updated": "05/06/2023",
-          "code": "loadstring(game:HttpGet\"https://raw.githubusercontent.com/Laelmano24/Rael-Hub/main/main.txt\")()"
-        }
-      ]
-    },
-    {
-      "name": "Combate",
-      "scripts": [
-        {
-          "name": "SCRIPT MURDER MYSTERY 2 - XHUB",
-          "description": "Script FUNCIONANDO EM QUASE TRODOS OS EXECUTORES!!! APROVEITE.",
-          "image": "https://tr.rbxcdn.com/180DAY-9712501c7ff29c2243d0fd3bfb47d93d/768/432/Image/Webp/noFilter",
-          "rating": 4.5,
-          "downloads": "3.1k",
-          "updated": "12/06/2023",
-          "code": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/newredz/BloxFruits/refs/heads/main/Source.luau\"))(Settings)"
+          "code": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/Laelmano24/Rael-Hub/main/main.txt\"))()"
         }
       ]
     }
   ]
+}
