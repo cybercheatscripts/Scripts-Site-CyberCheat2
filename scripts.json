@@ -52,7 +52,7 @@
           "rating": 4.7,
           "downloads": "1.8k",
           "updated": "05/06/2025",
-          "code": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/newredz/BloxFruits/refs/heads/main/Source.luau\"))(Settings)", true))()"
+          "code": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/newredz/BloxFruits/refs/heads/main/Source.luau\"))(Settings)",
         }
       ]
     }
