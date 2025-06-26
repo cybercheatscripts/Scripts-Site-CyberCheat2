@@ -84,6 +84,15 @@
           "downloads": "1.8k",
           "updated": "05/06/2023",
           "code": "loadstring(game:HttpGet(('https://raw.githubusercontent.com/EdgeIY/infiniteyield/master/source'),true))()"
+        },
+        {
+          "name": "BROOKHAVEN SCRIPT - CHAOS HUB",
+          "description": "Script super OP para você que quer acabar com os WEBS NAMORADOS no brookhaven. AProveite.",
+          "image": "https://tr.rbxcdn.com/180DAY-aebe0d605448e11586ea0a4e07529ce4/768/432/Image/Webp/noFilter",
+          "rating": 4.9,
+          "downloads": "2.4k",
+          "updated": "10/06/2023",
+          "code": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/Luscaa22/Calabocaa/refs/heads/main/ChaosHub\"))()"
         }
       ]
     }
